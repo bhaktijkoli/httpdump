@@ -1,0 +1,16 @@
+{
+  "name": "httpdump",
+  "version": "1.0.0",
+  "description": "HTTP Server to Dump All the incoming traffic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
